@@ -4,8 +4,8 @@ addons:
   firefox: latest
 python:
   - 2.7
-  - 3.5
   - 3.6
+  - 3.7
 env:
   - DJANGO="Django==1.8.19" MOZ_HEADLESS=1
   - DJANGO="Django==1.9.13" MOZ_HEADLESS=1
